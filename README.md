@@ -1,4 +1,4 @@
-# 03-gestao-de-projetos
+# Gestao-de-projetos
 
 Projeto autoral de portfólio UI/UX + full stack.
 
